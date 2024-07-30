@@ -1,0 +1,197 @@
+body{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+header nav{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 90px;
+}
+header nav .op{
+   position: absolute;
+   top: 50px;
+   left: 40px;
+}
+header nav ul {
+    display: flex;
+    position: absolute;
+    left: 360px;
+    list-style: none;
+   gap: 70px;
+    
+  
+}
+header nav ul li img {
+margin-top: 10px;
+
+}
+button{
+    position: absolute;
+    right: 290px;
+    background-color: white;
+    border: 1px solid orange;
+    width:219px ;
+    height: 63px;
+    border-radius: 20px;
+    font-size: 20px;color: orange;
+}
+.ip{
+    background-color: aqua;
+}
+
+.lol{
+    position: absolute;
+   right: 90px;top: 0px;
+}
+hr{
+
+   
+  margin-top: 90px;
+    box-shadow: black 5px 5px 9px;
+}
+
+.img{
+    position: absolute;
+    top: 240px;
+    left: 100px;
+}
+.i{
+    display: flex;
+  
+}
+.igg{
+    position: absolute;
+    top: 250px;
+    left: 1200px;
+}
+.container{
+   border: 1px solid black;
+   
+   position: absolute;
+left: 50px;
+right: 1053px;
+
+bottom: 753px;
+
+}
+.full{
+    
+    
+
+  /* Rectangle 3 */
+position: absolute;
+width: 290px;
+height: 290px;
+left: 97px;
+right: 1053px;
+top: 396px;
+bottom: 753px;
+}
+.nm{
+    margin-left: 90px;
+}
+.box{
+    margin-left: 90px;
+}
+
+.box .jj{
+   position: relative;
+   right: 25px;
+}
+.kill{
+    display: flex;
+}
+.kill img{
+    margin-top: 15px;
+}
+.tull{
+ 
+position: absolute;
+width: 290px;
+height: 290px;
+left: 412px;
+top: 385px;
+}
+.ll{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 728px;
+top: 396px;
+}.ull{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 1044px;
+top: 365px;
+}
+.ull h1{
+    color: gainsboro;
+}
+.l{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 97px;
+top: 721px;
+}.nn{
+   
+position: absolute;
+width: 290px;
+height: 290px;
+left: 412px;
+top: 721px;
+}
+.pp{
+   
+position: absolute;
+width: 290px;
+height: 290px;
+left: 728px;
+top: 721px;
+}
+.c{
+
+position: absolute;
+width: 290px;
+height: 290px;
+left: 1044px;
+top: 721px;
+}
+.cs{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 101px;
+top: 1045px;
+}.yl{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 416px;
+top: 1045px;
+}.ol{
+ 
+position: absolute;
+width: 290px;
+height: 290px;
+left: 732px;
+top: 1010px;
+}.jk{
+  
+position: absolute;
+width: 290px;
+height: 290px;
+left: 1048px;
+top: 1035px;
+}
+
